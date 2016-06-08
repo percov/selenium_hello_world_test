@@ -1,4 +1,4 @@
-package com.coveros.selenium_hello_world;
+package com.coveros.hello_world_selenium;
 
 
 import java.io.BufferedReader;
